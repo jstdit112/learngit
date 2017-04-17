@@ -7,3 +7,5 @@ Creating a new branch is quick.
 Creating a new branch is quick & simple.
 this is a good time
 little time
+this is a good time!
+this is a bad time
